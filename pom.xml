@@ -13,7 +13,7 @@
 
     <properties>
 
-        <!-- Generic properties -->
+        <!-- Generic properties  -->
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -562,7 +562,7 @@
   <snapshotRepository>
     <id>petclinic-snapshots</id>
     <!-- CHANGE HERE by your team Nexus server -->
-    <url>http://13.126.29.46:8081/repository/petclinic-snapshot/</url>
+    <url>http://13.126.29.50:8081/repository/petclinic-snapshot/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
