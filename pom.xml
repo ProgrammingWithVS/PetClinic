@@ -557,12 +557,12 @@
     <id>petclinic-releases</id>
    <name>petclinic-releases</name>
     <!-- CHANGE HERE by your team Nexus server -->
-    <url>http://15.207.113.195:8081/repository/petclinic-release/</url>
+    <url>http://13.126.119.68:8081/repository/mavensnap/</url>
   </repository>
   <snapshotRepository>
     <id>petclinic-snapshots</id>
     <!-- CHANGE HERE by your team Nexus server -->
-    <url>http://15.207.113.195:8081/repository/petclinic-release/</url>
+    <url>http://13.126.119.68:8081/repository/mavensnap/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
